@@ -55,6 +55,7 @@ int main()
 	mhs.input();
 	mhs.printData();
     
-	mk
+	mk.input();
+	mk.tampil();
 
 }
